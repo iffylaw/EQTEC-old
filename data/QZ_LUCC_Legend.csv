@@ -1,0 +1,9 @@
+Value,Label,Red,Green,Blue
+11,Post-flooding or irrigated croplands (or aquatic),170,240,240
+14,Rainfed croplands,255,255,100
+20,Mosaic cropland (50-70%) / vegetation (grassland/shrubland/forest) (20-50%),220,240,100
+30,Mosaic vegetation (grassland/shrubland/forest) (50-70%) / cropland (20-50%) ,205,205,102
+140,"Closed to open (>15%) herbaceous vegetation (grassland, savannas or lichens/mosses)",255,180,50
+150,Sparse (<15%) vegetation,255,235,175
+200,Bare areas,255,245,215
+210,Water bodies,0,70,200

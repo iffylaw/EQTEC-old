@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>公路桥梁.kml</name>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>7fff55aa</color>
+			<width>10</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>7fff55aa</color>
+			<width>10</width>
+		</LineStyle>
+	</Style>
+	<Placemark>
+		<name>桥梁1</name>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				93.28819774254014,35.2980512246042,0 93.28853019672192,35.29813134220515,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>桥梁2</name>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				93.28172339846545,35.2964068173455,0 93.28141193521641,35.2963530604594,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>桥梁3</name>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				93.26723689392213,35.29255311993253,0 93.26688856227018,35.29238187169004,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>桥梁4</name>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				93.19697962632725,35.2684349683548,0 93.1973571955895,35.26858450356338,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>桥梁5</name>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				93.17201708985809,35.26412288750027,0 93.17611927051648,35.26444786196038,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>桥梁6</name>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				93.15523234838142,35.26224157828362,0 93.15702322029686,35.26246987838959,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>桥梁7</name>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				93.15246018470053,35.26187259707521,0 93.15415121061152,35.26211123017473,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>桥梁8</name>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				93.04402865105114,35.178685429835,0 93.04617592791709,35.18092875884426,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>桥梁9</name>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				93.01650311648305,35.04986225321139,0 93.01662780194013,35.0494169613181,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>桥梁10</name>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				92.98379063117585,35.0021744999089,0 92.98365244302357,35.001782266201,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>桥梁11</name>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				92.95208930807685,34.9536174837564,0 92.95205161474895,34.95344386788449,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>桥梁12</name>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				92.94967200806437,34.94330986934953,0 92.94963325853071,34.94314124072844,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>桥梁13</name>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				92.94533024030737,34.92480325602644,0 92.9450844623665,34.92371679120888,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>桥梁14</name>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				92.93652952429702,34.8875094503387,0 92.93588471863936,34.88580841190039,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>桥梁15</name>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				92.93811264174815,34.87091953314202,0 92.93815606888468,34.87078378201557,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>桥梁16</name>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				92.93911296686561,34.86675200176538,0 92.93915798805631,34.86660269567846,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>桥梁17</name>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				92.94234613321594,34.83845284622632,0 92.94199610766351,34.83804299049353,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>桥梁18</name>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				92.9049429654719,34.77695600986758,0 92.90468546442043,34.77655049371268,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>桥梁19</name>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				92.89976904096504,34.75508172948763,0 92.89978343475025,34.75488523347065,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>桥梁20</name>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				92.89610869939983,34.73596318863995,0 92.89601369384285,34.73554925023021,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>
